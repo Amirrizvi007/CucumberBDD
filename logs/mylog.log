@@ -1,0 +1,24 @@
+[FATAL] 2024-03-03 02:19:23:924 [main] StepDef - Setup executed...
+[INFO ] 2024-03-03 02:19:24:065 [main] StepDef - User Launch chrome browser
+[INFO ] 2024-03-03 02:19:29:402 [main] StepDef - URL opened
+[INFO ] 2024-03-03 02:19:30:053 [main] StepDef - email address and password entered 
+[INFO ] 2024-03-03 02:19:33:692 [main] StepDef - login buton click
+[WARN ] 2024-03-03 02:19:35:235 [main] StepDef - Login Feature :Page title matched
+[INFO ] 2024-03-03 02:19:47:896 [main] StepDef - user clicked on logout link
+[WARN ] 2024-03-03 02:19:48:113 [main] StepDef - Login Feature :Page title matched
+[FATAL] 2024-03-03 02:31:52:805 [main] StepDef - Setup executed...
+[INFO ] 2024-03-03 02:31:52:898 [main] StepDef - User Launch chrome browser
+[INFO ] 2024-03-03 02:31:57:299 [main] StepDef - URL opened
+[INFO ] 2024-03-03 02:31:57:793 [main] StepDef - email address and password entered 
+[INFO ] 2024-03-03 02:32:00:700 [main] StepDef - login buton click
+[WARN ] 2024-03-03 02:32:02:725 [main] StepDef - Login Feature :Page title matched
+[INFO ] 2024-03-03 02:32:12:103 [main] StepDef - user clicked on logout link
+[WARN ] 2024-03-03 02:32:12:118 [main] StepDef - Login Feature :Page title matched
+[FATAL] 2024-03-03 02:36:18:765 [main] StepDef - Setup executed...
+[INFO ] 2024-03-03 02:36:18:932 [main] StepDef - User Launch chrome browser
+[INFO ] 2024-03-03 02:36:24:164 [main] StepDef - URL opened
+[INFO ] 2024-03-03 02:36:24:668 [main] StepDef - email address and password entered 
+[INFO ] 2024-03-03 02:36:26:868 [main] StepDef - login buton click
+[WARN ] 2024-03-03 02:36:28:388 [main] StepDef - Login Feature :Page title matched
+[INFO ] 2024-03-03 02:36:37:862 [main] StepDef - user clicked on logout link
+[WARN ] 2024-03-03 02:36:37:947 [main] StepDef - Login Feature :Page title matched
